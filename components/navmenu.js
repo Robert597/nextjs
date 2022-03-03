@@ -40,7 +40,7 @@ const Nav = () => {
        <a href= "#" className="text-2xl twitter" >
        <FaTwitter/>   
         </a>
-        <a href= "#" className="text-2xl twitter">
+        <a href= "#" className="text-2xl facebook">
        <FaFacebook/>   
         </a>
         <a href= "#" className="text-2xl instagram">
